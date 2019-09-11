@@ -16,7 +16,7 @@ def addtwofunction(a,b,c):
 ```python
 
 def elsomasfunc():
-    return "elsoma"
+    return "elsoma dey"
 ```
 
 ```python
