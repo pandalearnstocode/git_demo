@@ -7,6 +7,7 @@ this is my 2nd commit.
 
 ```python
 
-def addtwofunction(a,b):
+def addtwofunction(a,b,c):
+    a = a + c
     return a + b
 ```
