@@ -11,3 +11,16 @@ def addtwofunction(a,b,c):
     a = a + c
     return a + b
 ```
+
+
+```python
+
+def elsomasfunc():
+    return "elsoma"
+```
+
+```python
+def aritrasfunction():
+    print("output of elsomasfunction:"+elsomasfunc())
+    pass
+```
